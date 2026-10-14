@@ -1,12 +1,14 @@
 # Dogasur
 
-Public install files for Dogasur. The current build is a **beta**.
+Dogasur finds a bike nearby, unlocks it, and stays with you for the ride. This repository publishes the official Android and iPhone builds.
 
-Download [Dogasur 2.0 Beta](https://github.com/Sudarshan50/dogasur-releases/releases/tag/v2.0.0). The older 1.0 release is still listed as Latest because GitHub keeps that label off a beta.
+## Current release
+
+Download [Dogasur 2.0](https://github.com/Sudarshan50/dogasur-releases/releases/tag/v2.0.0).
 
 ## Android
 
-1. Download `Dogasur.apk` from the beta release.
+1. Download `Dogasur.apk` from the current release.
 2. Open the file on the phone.
 3. If Android asks, allow installation from your browser or Files app.
 
@@ -22,7 +24,7 @@ After Sideloadly finishes, turn on **Developer Mode** on the iPhone and trust yo
 
 1. Download Sideloadly for macOS from [sideloadly.io](https://sideloadly.io).
 2. Open it. If macOS says the app cannot be opened, go to **System Settings → Privacy & Security** and choose **Open Anyway**.
-3. Download `Dogasur.ipa` from the [beta release](https://github.com/Sudarshan50/dogasur-releases/releases/tag/v2.0.0).
+3. Download `Dogasur.ipa` from the [current release](https://github.com/Sudarshan50/dogasur-releases/releases/tag/v2.0.0).
 4. Plug the iPhone into the Mac. Unlock the phone and tap **Trust This Computer**.
 5. In Sideloadly, choose the iPhone. Drag `Dogasur.ipa` into the window.
 6. Enter your Apple ID. If Apple sends a verification code, type it in.
@@ -34,7 +36,7 @@ After Sideloadly finishes, turn on **Developer Mode** on the iPhone and trust yo
 1. If iTunes or iCloud came from the Microsoft Store, uninstall those copies.
 2. Install the desktop versions of [iTunes](https://www.apple.com/itunes/) and [iCloud](https://www.apple.com/icloud/download/) from Apple’s website. Sideloadly needs those, not the Store apps.
 3. Download Sideloadly for Windows from [sideloadly.io](https://sideloadly.io) and install it.
-4. Download `Dogasur.ipa` from the [beta release](https://github.com/Sudarshan50/dogasur-releases/releases/tag/v2.0.0).
+4. Download `Dogasur.ipa` from the [current release](https://github.com/Sudarshan50/dogasur-releases/releases/tag/v2.0.0).
 5. Plug the iPhone in, unlock it, and tap **Trust This Computer**.
 6. Open Sideloadly, choose the iPhone, and drag `Dogasur.ipa` into the window.
 7. Enter your Apple ID and any verification code Apple sends.
